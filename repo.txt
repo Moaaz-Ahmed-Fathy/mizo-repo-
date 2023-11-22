@@ -1,3 +1,5 @@
 name: mo3az
 age : 16
 nakename :mizo , zoz 
+
+zoz = mizo 
